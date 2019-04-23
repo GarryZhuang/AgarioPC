@@ -1,0 +1,10 @@
+C:\Users\Garry Zhuang\Documents\Visual Studio 2012\Projects\Agar.io PC\Agar.io PC\bin\Debug\Agar.io PC.exe.config
+C:\Users\Garry Zhuang\Documents\Visual Studio 2012\Projects\Agar.io PC\Agar.io PC\bin\Debug\Agar.io PC.exe
+C:\Users\Garry Zhuang\Documents\Visual Studio 2012\Projects\Agar.io PC\Agar.io PC\bin\Debug\Agar.io PC.pdb
+C:\Users\Garry Zhuang\Documents\Visual Studio 2012\Projects\Agar.io PC\Agar.io PC\bin\Debug\Agar.io PC.xml
+C:\Users\Garry Zhuang\Documents\Visual Studio 2012\Projects\Agar.io PC\Agar.io PC\obj\Debug\Agar.io_PC.Form1.resources
+C:\Users\Garry Zhuang\Documents\Visual Studio 2012\Projects\Agar.io PC\Agar.io PC\obj\Debug\Agar.io_PC.Resources.resources
+C:\Users\Garry Zhuang\Documents\Visual Studio 2012\Projects\Agar.io PC\Agar.io PC\obj\Debug\Agar.io PC.vbproj.GenerateResource.Cache
+C:\Users\Garry Zhuang\Documents\Visual Studio 2012\Projects\Agar.io PC\Agar.io PC\obj\Debug\Agar.io PC.exe
+C:\Users\Garry Zhuang\Documents\Visual Studio 2012\Projects\Agar.io PC\Agar.io PC\obj\Debug\Agar.io PC.xml
+C:\Users\Garry Zhuang\Documents\Visual Studio 2012\Projects\Agar.io PC\Agar.io PC\obj\Debug\Agar.io PC.pdb
